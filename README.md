@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivamtiwari1
-- 👀 I’m interested in cloud computing 
+- 👀 I’m interested in cloud computing & AI
 - 🌱 I’m currently learning python & java
 - 💞️ I’m looking to collaborate on skilled professionals 
 - 📫 How to reach me ... shivamtiwarirudraksh2003@gmail.com

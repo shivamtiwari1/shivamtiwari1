@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m @shivamtiwari1
 - 👀 I’m interested in cloud computing & AI
 - 🌱 I’m currently learning python 
@@ -8,3 +9,6 @@
 shivamtiwari1/shivamtiwari1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+shivam Rudraksha
+<br>
+the owner of this repo

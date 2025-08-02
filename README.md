@@ -48,15 +48,6 @@
 
 ---
 
-### 🌟 Project Spotlight
-<p align="center">
-  <a href="https://github.com/shivamtiwari1/shivamtiwari1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamtiwari1&repo=shivamtiwari1&theme=buefy&hide_border=true&icon_color=006466" alt="Featured Project" />
-  </a>
-</p>
-
----
-
 ### 📊 My GitHub Activity & Stats
 
 <p align="center">

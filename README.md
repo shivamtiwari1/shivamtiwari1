@@ -74,4 +74,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shivam-tiwari-4239a621b/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="mailto:shivam230131@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/mailing.png" alt="Email"/></a>
+  <a href="https://shivamtiwari1.github.io/Portfolio/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="My Portfolio Website"/></a>
 </p>
+
+
